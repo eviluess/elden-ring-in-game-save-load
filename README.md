@@ -27,4 +27,7 @@ Save and Load without switching to desktop
 * Save the configurations if you did any modifications
 <img src="https://github.com/eviluess/elden-ring-in-game-save-load/blob/main/save-config.png" width=640px/>
 
+* Modify the hard code to ensure that it matches your game folder:
+<img src="https://github.com/eviluess/elden-ring-in-game-save-load/blob/main/hardcode.png" width=1080px/>
+
 * Enjoy
