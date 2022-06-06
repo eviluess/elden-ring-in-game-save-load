@@ -31,3 +31,9 @@ Save and Load without switching to desktop
 <img src="https://github.com/eviluess/elden-ring-in-game-save-load/blob/main/hardcode.png" width=1080px/>
 
 * Enjoy
+
+# Video Demo
+https://www.bilibili.com/video/BV1t5411Q7iB
+
+Mirros:
+https://www.youtube.com/watch?v=2pNZ7He7lW0
