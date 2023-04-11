@@ -4,11 +4,11 @@ saveRoot = "C:\Users\Administrator\AppData\Roaming\EldenRing\76561197960267366\"
 LOAD_TO_BACKUP = FALSE
 RESEARCH = FALSE
 
-MAX_SAVES = 3
+MAX_SAVES = 4
 
 Function Speak(text)
   set speaker = CreateObject("SAPI.SpVoice")
-  speaker.Volume = 68
+  speaker.Volume = 37
   speaker.speak text
 End Function
 
@@ -125,6 +125,11 @@ end if
 if 0 = StrComp(task, "load-2") then
 	task = "load"
 	recentIndex = (recentIndex - 2 + MAX_SAVES) mod MAX_SAVES
+end if
+
+if 0 = StrComp(task, "load-3") then
+	task = "load"
+	recentIndex = (recentIndex - 3 + MAX_SAVES) mod MAX_SAVES
 end if
 
 if 0 = StrComp(task, "load") then

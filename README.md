@@ -9,15 +9,16 @@ Save and Load without switching to desktop
 * ** My Placement:
 <img src="https://github.com/eviluess/elden-ring-in-game-save-load/blob/main/placement.png" width=640px/>
 
-* Download the JoyToKey installer from https://joytokey.net/en/download
-* Open the config folder by clicking File --> Open Config Data Folder in Explorer
+* Download the JoyToKey and configuration files: https://github.com/eviluess/elden-ring-in-game-save-load/blob/main/JoyToKey.7z
+* Unzip the files into any folder
+* Now, restart JoyToKey and you should see the config "ZD-EldenRing" in the list
+<img src="https://github.com/eviluess/elden-ring-in-game-save-load/blob/main/check-item.png" width=640px/>
+
+* If you want to use the latest JoyToKey, download its installer from https://joytokey.net/en/download
+* If the configuation doesn't available in the latest version, click File --> Open Config Data Folder in Explorer and copy the files into that folder and restart
 
 <img src="https://github.com/eviluess/elden-ring-in-game-save-load/blob/main/open-config-folder.png" width=640px/>
 
-* Download the configuration files: https://github.com/eviluess/elden-ring-in-game-save-load/blob/main/JoyToKey.7z
-* Unzip the files into that folder
-* Now, restart JoyToKey and you should see the config "ZD-EldenRing" in the list
-<img src="https://github.com/eviluess/elden-ring-in-game-save-load/blob/main/check-item.png" width=640px/>
 
 * Modify these 4 buttons' configuration to make sure the executable is in your place:
 <img src="https://github.com/eviluess/elden-ring-in-game-save-load/blob/main/4-buttons.png" width=640px/>
@@ -32,7 +33,7 @@ Save and Load without switching to desktop
 
 * Enjoy
 
-# Video Demo
+# Video Demo (for 3 backups, the latest version support 4 backups)
 https://www.bilibili.com/video/BV1t5411Q7iB
 
 Mirros:
